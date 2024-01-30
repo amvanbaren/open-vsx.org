@@ -155,6 +155,3 @@ ovsx:
       seconds: 300
   integrity:
     key-pair: create
-  vscode:
-    upstream:
-      update-on-start: true
